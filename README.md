@@ -15,7 +15,6 @@ by *Maximilian Schwarzmüller*.
 - See move history in a log
 - Detects winner or draw automatically
 - Restart the game at any time
-- Responsive and simple UI
 
 ## Project Structure
 ```
