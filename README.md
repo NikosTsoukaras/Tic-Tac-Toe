@@ -19,8 +19,19 @@ by *Maximilian Schwarzmüller*.
 
 ## Project Structure
 ```
-. 
-├── index.html ├── package.json └── src ├── App.jsx ├── main.jsx ├── components/ │ ├── Gameboard.jsx │ ├── GameOver.jsx │ ├── Log.jsx │ ├── Player.jsx │ └── winning-combinations.js └── assets/
+.
+├── index.html
+├── package.json
+└── src
+    ├── App.jsx
+    ├── main.jsx
+    ├── components
+    │   ├── Gameboard.jsx
+    │   ├── GameOver.jsx
+    │   ├── Log.jsx
+    │   ├── Player.jsx
+    │   └── winning-combinations.js
+    └── assets
 ```
 
 ## Getting Started
